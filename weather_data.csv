@@ -1,0 +1,424 @@
+city,url,date_time,weather_description,temperature
+Abidjan,https://www.timeanddate.com/weather/cote-divoire/abidjan,Wed 3:43 am,Passing clouds. Warm.,82 °F
+Luanda,https://www.timeanddate.com/weather/angola/luanda,Wed 4:43 am,Passing clouds. Mild.,75 °F
+Abu Dhabi,https://www.timeanddate.com/weather/united-arab-emirates/abu-dhabi,Wed 7:43 am,Passing clouds. Hot.,90 °F
+Ludhiana,https://www.timeanddate.com/weather/india/ludhiana,Wed 9:13 am,Scattered clouds. Warm.,80 °F
+Acapulco,https://www.timeanddate.com/weather/mexico/acapulco,Tue 9:43 pm,Partly cloudy. Warm.,86 °F
+Luxembourg,https://www.timeanddate.com/weather/luxembourg/luxembourg,Wed 5:43 am,Overcast. Cool.,52 °F
+Accra,https://www.timeanddate.com/weather/ghana/accra,Wed 3:43 am,Clear. Warm.,81 °F
+Madison,https://www.timeanddate.com/weather/usa/madison,Tue 10:43 pm,Clear. Refreshingly cool.,59 °F
+Adak,https://www.timeanddate.com/weather/usa/adak,Tue 6:43 pm,Overcast. Quite cool.,43 °F
+Madrid,https://www.timeanddate.com/weather/spain/madrid,Wed 5:43 am,Passing clouds. Mild.,63 °F
+Addis Ababa,https://www.timeanddate.com/weather/ethiopia/addis-ababa,Wed 6:43 am,Passing clouds. Cool.,59 °F
+Magadan,https://www.timeanddate.com/weather/russia/magadan,Wed 2:43 pm,Overcast. Cool.,54 °F
+Adelaide,https://www.timeanddate.com/weather/australia/adelaide,Wed 1:13 pm,Cool.,56 °F
+Majuro,https://www.timeanddate.com/weather/marshall-islands/majuro,Wed 3:43 pm,Cloudy. Hot.,88 °F
+Aden,https://www.timeanddate.com/weather/yemen/aden,Wed 6:43 am,Partly sunny. Warm.,88 °F
+Makassar,https://www.timeanddate.com/weather/indonesia/makassar,Wed 11:43 am,Passing clouds. Hot.,90 °F
+Aguascalientes,https://www.timeanddate.com/weather/mexico/aguascalientes,Tue 9:43 pm,Partly cloudy. Warm.,77 °F
+Makkah,https://www.timeanddate.com/weather/saudi-arabia/makkah,Wed 6:43 am,Sunny. Warm.,81 °F
+Ahmedgarh,https://www.timeanddate.com/weather/india/ahmedgarh,Wed 9:13 am,Scattered clouds. Warm.,80 °F
+Malabo,https://www.timeanddate.com/weather/equatorial-guinea/malabo,Wed 4:43 am,Thunderstorms. Passing clouds. Warm.,79 °F
+Albuquerque,https://www.timeanddate.com/weather/usa/albuquerque,Tue 9:43 pm,Passing clouds. Mild.,72 °F
+Male,https://www.timeanddate.com/weather/maldives/male,Wed 8:43 am,Passing clouds. Warm.,86 °F
+Algiers,https://www.timeanddate.com/weather/algeria/algiers,Wed 4:43 am,Passing clouds. Mild.,76 °F
+Manado,https://www.timeanddate.com/weather/indonesia/manado,Wed 11:43 am,Scattered clouds. Warm.,88 °F
+Alice Springs,https://www.timeanddate.com/weather/australia/alice-springs,Wed 1:13 pm,Sunny. Mild.,68 °F
+Managua,https://www.timeanddate.com/weather/nicaragua/managua,Tue 9:43 pm,Passing clouds. Warm.,84 °F
+Almaty,https://www.timeanddate.com/weather/kazakstan/almaty,Wed 8:43 am,Partly sunny. Mild.,75 °F
+Manama,https://www.timeanddate.com/weather/bahrain/manama,Wed 6:43 am,Sunny. Hot.,91 °F
+Alofi,https://www.timeanddate.com/weather/niue/alofi,Tue 4:43 pm,Partly sunny. Mild.,73 °F
+Manaus,https://www.timeanddate.com/weather/brazil/manaus,Tue 11:43 pm,Clear. Warm.,77 °F
+Amman,https://www.timeanddate.com/weather/jordan/amman,Wed 6:43 am,Clear. Mild.,68 °F
+Manila,https://www.timeanddate.com/weather/philippines/manila,Wed 11:43 am,Overcast. Warm.,79 °F
+Amsterdam,https://www.timeanddate.com/weather/netherlands/amsterdam,Wed 5:43 am,Passing clouds. Cool.,57 °F
+Manokwari,https://www.timeanddate.com/weather/indonesia/manokwari,Wed 12:43 pm,Light rain. Overcast. Hot.,90 °F
+Anadyr,https://www.timeanddate.com/weather/russia/anadyr,Wed 3:43 pm,Scattered clouds. Refreshingly cool.,59 °F
+Maputo,https://www.timeanddate.com/weather/mozambique/maputo,Wed 5:43 am,Passing clouds. Mild.,66 °F
+Anchorage,https://www.timeanddate.com/weather/usa/anchorage,Tue 7:43 pm,Sunny. Mild.,71 °F
+Mary's Harbour,https://www.timeanddate.com/weather/canada/mary-s-harbour,Wed 1:13 am,Quite cool.,45 °F
+Ankara,https://www.timeanddate.com/weather/turkey/ankara,Wed 6:43 am,Scattered clouds. Cool.,57 °F
+Mazatlan,https://www.timeanddate.com/weather/mexico/mazatlan,Tue 8:43 pm,Clear. Warm.,84 °F
+Antananarivo,https://www.timeanddate.com/weather/madagascar/antananarivo,Wed 6:43 am,Passing clouds. Cool.,54 °F
+Medina,https://www.timeanddate.com/weather/saudi-arabia/medina,Wed 6:43 am,Sunny. Pleasantly warm.,88 °F
+Apia,https://www.timeanddate.com/weather/samoa/apia,Wed 4:43 pm,Partly sunny. Warm.,85 °F
+Melbourne,https://www.timeanddate.com/weather/australia/melbourne,Wed 1:43 pm,Mostly cloudy. Cool.,57 °F
+Aqtobe,https://www.timeanddate.com/weather/kazakstan/aqtobe,Wed 8:43 am,Passing clouds. Cool.,55 °F
+Mexicali,https://www.timeanddate.com/weather/mexico/mexicali,Tue 8:43 pm,Passing clouds. Extremely hot.,96 °F
+Ashgabat,https://www.timeanddate.com/weather/turkmenistan/ashgabat,Wed 8:43 am,Passing clouds. Mild.,72 °F
+Mexico City,https://www.timeanddate.com/weather/mexico/mexico-city,Tue 9:43 pm,Passing clouds. Mild.,66 °F
+Astana,https://www.timeanddate.com/weather/kazakstan/astana,Wed 8:43 am,Sunny. Mild.,73 °F
+Miami,https://www.timeanddate.com/weather/usa/miami,Tue 11:43 pm,Partly cloudy. Warm.,78 °F
+Asuncion,https://www.timeanddate.com/weather/paraguay/asuncion,Wed 12:43 am,Clear. Mild.,66 °F
+Midland,https://www.timeanddate.com/weather/usa/midland,Tue 10:43 pm,Clear. Warm.,83 °F
+Athens,https://www.timeanddate.com/weather/greece/athens,Wed 6:43 am,Mild.,72 °F
+Midway,https://www.timeanddate.com/weather/usa/midway,Tue 4:43 pm,Passing clouds. Warm.,77 °F
+Atlanta,https://www.timeanddate.com/weather/usa/atlanta,Tue 11:43 pm,Clear. Mild.,66 °F
+Milan,https://www.timeanddate.com/weather/italy/milan,Wed 5:43 am,Fog. Cool.,59 °F
+Auckland,https://www.timeanddate.com/weather/new-zealand/auckland,Wed 3:43 pm,Passing clouds. Mild.,63 °F
+Milwaukee,https://www.timeanddate.com/weather/usa/milwaukee,Tue 10:43 pm,Clear. Refreshingly cool.,57 °F
+Augusta,https://www.timeanddate.com/weather/usa/augusta,Tue 11:43 pm,Clear. Refreshingly cool.,60 °F
+Minneapolis,https://www.timeanddate.com/weather/usa/minneapolis,Tue 10:43 pm,Partly sunny. Pleasantly warm.,82 °F
+Austin,https://www.timeanddate.com/weather/usa/austin,Tue 10:43 pm,Passing clouds. Mild.,71 °F
+Minsk,https://www.timeanddate.com/weather/belarus/minsk,Wed 6:43 am,Sunny. Cool.,48 °F
+Baghdad,https://www.timeanddate.com/weather/iraq/baghdad,Wed 6:43 am,Clear. Pleasantly warm.,84 °F
+Monaco,https://www.timeanddate.com/weather/monaco/monaco,Wed 5:43 am,Passing clouds. Mild.,64 °F
+Baker Lake,https://www.timeanddate.com/weather/canada/baker-lake,Tue 10:43 pm,Partly sunny. Refreshingly cool.,57 °F
+Monrovia,https://www.timeanddate.com/weather/liberia/monrovia,Wed 3:43 am,Passing clouds. Mild.,75 °F
+Baku,https://www.timeanddate.com/weather/azerbaijan/baku,Wed 7:43 am,Sunny. Mild.,64 °F
+Montevideo,https://www.timeanddate.com/weather/uruguay/montevideo,Wed 12:43 am,Passing clouds. Cool.,52 °F
+Balikpapan,https://www.timeanddate.com/weather/indonesia/balikpapan,Wed 11:43 am,Partly sunny. Warm.,87 °F
+Montgomery,https://www.timeanddate.com/weather/usa/montgomery,Tue 10:43 pm,Passing clouds. Warm.,78 °F
+Baltimore,https://www.timeanddate.com/weather/usa/baltimore,Tue 11:43 pm,Passing clouds. Mild.,63 °F
+Montpelier,https://www.timeanddate.com/weather/usa/montpelier,Tue 11:43 pm,Clear. Cool.,53 °F
+Bamako,https://www.timeanddate.com/weather/mali/bamako,Wed 3:43 am,Passing clouds. Warm.,86 °F
+Montréal,https://www.timeanddate.com/weather/canada/montreal,Tue 11:43 pm,Passing clouds. Mild.,64 °F
+Bandar Seri Begawan,https://www.timeanddate.com/weather/brunei/bandar-seri-begawan,Wed 11:43 am,Partly sunny. Warm.,79 °F
+Moroni,https://www.timeanddate.com/weather/comoros/moroni,Wed 6:43 am,Passing clouds. Mild.,75 °F
+Bangkok,https://www.timeanddate.com/weather/thailand/bangkok,Wed 10:43 am,Passing clouds. Hot.,91 °F
+Moscow,https://www.timeanddate.com/weather/russia/moscow,Wed 6:43 am,Clear. Cool.,48 °F
+Bangui,https://www.timeanddate.com/weather/central-african-republic/bangui,Wed 4:43 am,Clear. Warm.,79 °F
+Mumbai,https://www.timeanddate.com/weather/india/mumbai,Wed 9:13 am,Broken clouds. Warm.,81 °F
+Banjul,https://www.timeanddate.com/weather/gambia/banjul,Wed 3:43 am,Passing clouds. Warm.,77 °F
+Murmansk,https://www.timeanddate.com/weather/russia/murmansk,Wed 6:43 am,Sunny. Quite cool.,43 °F
+Barcelona,https://www.timeanddate.com/weather/spain/barcelona,Wed 5:43 am,Passing clouds. Mild.,70 °F
+Muscat,https://www.timeanddate.com/weather/oman/muscat,Wed 7:43 am,Extremely hot.,97 °F
+Basse-Terre (Guadeloupe),https://www.timeanddate.com/weather/guadeloupe/basse-terre,Tue 11:43 pm,Clear. Warm.,77 °F
+N'Djamena,https://www.timeanddate.com/weather/chad/ndjamena,Wed 4:43 am,Clear. Warm.,88 °F
+Basseterre (St. Kitts),https://www.timeanddate.com/weather/saint-kitts-and-nevis/basseterre,Tue 11:43 pm,Passing clouds. Warm.,81 °F
+Nagoya,https://www.timeanddate.com/weather/japan/nagoya,Wed 12:43 pm,Partly sunny. Mild.,73 °F
+Beijing,https://www.timeanddate.com/weather/china/beijing,Wed 11:43 am,Mild.,74 °F
+Nashville,https://www.timeanddate.com/weather/usa/nashville,Tue 10:43 pm,Clear. Mild.,70 °F
+Belém,https://www.timeanddate.com/weather/brazil/belem,Wed 12:43 am,Clear. Warm.,79 °F
+Nassau,https://www.timeanddate.com/weather/bahamas/nassau,Tue 11:43 pm,Partly cloudy. Warm.,81 °F
+Belfast,https://www.timeanddate.com/weather/uk/belfast,Wed 4:43 am,Overcast. Cool.,52 °F
+New Delhi,https://www.timeanddate.com/weather/india/new-delhi,Wed 9:13 am,Haze. Hot.,89 °F
+Belgrade,https://www.timeanddate.com/weather/serbia/belgrade,Wed 5:43 am,Sunny. Cool.,61 °F
+New Orleans,https://www.timeanddate.com/weather/usa/new-orleans,Tue 10:43 pm,Passing clouds. Warm.,80 °F
+Belmopan,https://www.timeanddate.com/weather/belize/belmopan,Tue 9:43 pm,Passing clouds. Warm.,83 °F
+New York,https://www.timeanddate.com/weather/usa/new-york,Tue 11:43 pm,Clear. Mild.,69 °F
+Belushya Guba,https://www.timeanddate.com/weather/russia/belushya-guba,Wed 6:43 am,Partly sunny. Chilly.,32 °F
+Newark,https://www.timeanddate.com/weather/usa/newark,Tue 11:43 pm,Partly cloudy. Mild.,73 °F
+Bengaluru,https://www.timeanddate.com/weather/india/bengaluru,Wed 9:13 am,Scattered clouds. Mild.,75 °F
+Ngerulmud,https://www.timeanddate.com/weather/palau/ngerulmud,Wed 12:43 pm,Overcast. Warm.,86 °F
+Berlin,https://www.timeanddate.com/weather/germany/berlin,Wed 5:43 am,Light rain. Clear. Mild.,63 °F
+Niamey,https://www.timeanddate.com/weather/niger/niamey,Wed 4:43 am,Clear. Hot.,90 °F
+Bern,https://www.timeanddate.com/weather/switzerland/bern,Wed 5:43 am,Light rain. Partly cloudy. Cool.,54 °F
+Nicosia,https://www.timeanddate.com/weather/cyprus/nicosia,Wed 6:43 am,Sunny. Cool.,59 °F
+Bhubaneshwar,https://www.timeanddate.com/weather/india/bhubaneshwar,Wed 9:13 am,Partly sunny. Warm.,84 °F
+Norilsk,https://www.timeanddate.com/weather/russia/norilsk,Wed 10:43 am,Partly sunny. Cool.,47 °F
+Billings,https://www.timeanddate.com/weather/usa/billings,Tue 9:43 pm,Partly sunny. Refreshingly cool.,61 °F
+Noumea,https://www.timeanddate.com/weather/france/noumea,Wed 2:43 pm,Partly sunny. Warm.,77 °F
+Bishkek,https://www.timeanddate.com/weather/kyrgyzstan/bishkek,Wed 9:43 am,Overcast. Mild.,69 °F
+Novgorod,https://www.timeanddate.com/weather/russia/novgorod,Wed 6:43 am,Overcast. Cool.,58 °F
+Bismarck,https://www.timeanddate.com/weather/usa/bismarck,Tue 10:43 pm,Thundershowers. Partly cloudy. Mild.,72 °F
+Novosibirsk,https://www.timeanddate.com/weather/russia/novosibirsk,Wed 10:43 am,Scattered clouds. Mild.,64 °F
+Bissau,https://www.timeanddate.com/weather/guinea-bissau/bissau,Wed 3:43 am,Passing clouds. Warm.,79 °F
+Nuku'alofa,https://www.timeanddate.com/weather/tonga/nukualofa,Wed 4:43 pm,Passing clouds. Warm.,79 °F
+Blanc-Sablon,https://www.timeanddate.com/weather/canada/blanc-sablon,Tue 11:43 pm,Overcast. Chilly.,40 °F
+Nusantara,https://www.timeanddate.com/weather/indonesia/nusantara,Wed 11:43 am,Passing clouds. Warm.,86 °F
+Bogota,https://www.timeanddate.com/weather/colombia/bogota,Tue 10:43 pm,Scattered showers. Mostly cloudy. Cool.,57 °F
+Nuuk,https://www.timeanddate.com/weather/greenland/nuuk,Wed 2:43 am,Mostly cloudy. Chilly.,36 °F
+Boise,https://www.timeanddate.com/weather/usa/boise,Tue 9:43 pm,Sunny. Pleasantly warm.,77 °F
+Oklahoma City,https://www.timeanddate.com/weather/usa/oklahoma-city,Tue 10:43 pm,Passing clouds. Mild.,75 °F
+Boston,https://www.timeanddate.com/weather/usa/boston,Tue 11:43 pm,Passing clouds. Cool.,62 °F
+Omsk,https://www.timeanddate.com/weather/russia/omsk,Wed 9:43 am,Passing clouds. Cool.,57 °F
+Brasilia,https://www.timeanddate.com/weather/brazil/brasilia,Wed 12:43 am,Clear. Mild.,63 °F
+Oral,https://www.timeanddate.com/weather/kazakhstan/oral,Wed 8:43 am,Sunny. Cool.,54 °F
+Bratislava,https://www.timeanddate.com/weather/slovakia/bratislava,Wed 5:43 am,Passing clouds. Cool.,61 °F
+Orlando,https://www.timeanddate.com/weather/usa/orlando,Tue 11:43 pm,Clear. Warm.,77 °F
+Brazzaville,https://www.timeanddate.com/weather/congo/brazzaville,Wed 4:43 am,Clear. Mild.,73 °F
+Osaka,https://www.timeanddate.com/weather/japan/osaka,Wed 12:43 pm,Partly sunny. Warm.,79 °F
+Bridgetown,https://www.timeanddate.com/weather/barbados/bridgetown,Tue 11:43 pm,Passing clouds. Warm.,81 °F
+Oslo,https://www.timeanddate.com/weather/norway/oslo,Wed 5:43 am,Low clouds. Cool.,55 °F
+Brisbane,https://www.timeanddate.com/weather/australia/brisbane,Wed 1:43 pm,Mild.,75 °F
+Ottawa,https://www.timeanddate.com/weather/canada/ottawa,Tue 11:43 pm,Passing clouds. Refreshingly cool.,55 °F
+Brussels,https://www.timeanddate.com/weather/belgium/brussels,Wed 5:43 am,Sprinkles. Passing clouds. Cool.,55 °F
+Palikir,https://www.timeanddate.com/weather/micronesia/palikir,Wed 2:43 pm,Cloudy. Warm.,87 °F
+Bucharest,https://www.timeanddate.com/weather/romania/bucharest,Wed 6:43 am,Fog. Cool.,59 °F
+Palma,https://www.timeanddate.com/weather/spain/palma,Wed 5:43 am,Clear. Mild.,70 °F
+Budapest,https://www.timeanddate.com/weather/hungary/budapest,Wed 5:43 am,Sunny. Cool.,59 °F
+Panama,https://www.timeanddate.com/weather/panama/panama,Tue 10:43 pm,Passing clouds. Warm.,82 °F
+Buenos Aires,https://www.timeanddate.com/weather/argentina/buenos-aires,Wed 12:43 am,Passing clouds. Cool.,57 °F
+Papeete,https://www.timeanddate.com/weather/france/papeete,Tue 5:43 pm,Mostly cloudy. Warm.,77 °F
+Bujumbura,https://www.timeanddate.com/weather/burundi/bujumbura,Wed 5:43 am,Passing clouds. Mild.,73 °F
+Paris,https://www.timeanddate.com/weather/france/paris,Wed 5:43 am,Clear. Cool.,54 °F
+Cairns,https://www.timeanddate.com/weather/australia/cairns,Wed 1:43 pm,Sunny. Warm.,81 °F
+Patna,https://www.timeanddate.com/weather/india/patna,Wed 9:13 am,Haze. Hot.,90 °F
+Cairo,https://www.timeanddate.com/weather/egypt/cairo,Wed 6:43 am,Sunny. Mild.,75 °F
+Pensacola,https://www.timeanddate.com/weather/usa/pensacola,Tue 10:43 pm,Clear. Mild.,73 °F
+Calgary,https://www.timeanddate.com/weather/canada/calgary,Tue 9:43 pm,Light rain. Mostly cloudy. Cool.,46 °F
+Perm,https://www.timeanddate.com/weather/russia/perm,Wed 8:43 am,Passing clouds. Cool.,55 °F
+Canberra,https://www.timeanddate.com/weather/australia/canberra,Wed 1:43 pm,Mostly cloudy. Cool.,55 °F
+Perth,https://www.timeanddate.com/weather/australia/perth,Wed 11:43 am,Passing clouds. Cool.,61 °F
+Cancún,https://www.timeanddate.com/weather/mexico/cancun,Tue 10:43 pm,Thunderstorms. Mostly cloudy. Warm.,82 °F
+Petropavlovsk-Kamchatsky,https://www.timeanddate.com/weather/russia/petropavlovsk-kamchatsky,Wed 3:43 pm,Partly sunny. Cool.,50 °F
+Cape Town,https://www.timeanddate.com/weather/south-africa/cape-town,Wed 5:43 am,Clear. Cool.,59 °F
+Pevek,https://www.timeanddate.com/weather/russia/pevek,Wed 3:43 pm,Partly sunny. Chilly.,37 °F
+Caracas,https://www.timeanddate.com/weather/venezuela/caracas,Tue 11:43 pm,Passing clouds. Warm.,81 °F
+Philadelphia,https://www.timeanddate.com/weather/usa/philadelphia,Tue 11:43 pm,Partly cloudy. Mild.,66 °F
+Cardiff,https://www.timeanddate.com/weather/uk/cardiff,Wed 4:43 am,Partly cloudy. Cool.,55 °F
+Phoenix,https://www.timeanddate.com/weather/usa/phoenix,Tue 8:43 pm,Clear. Extremely hot.,100 °F
+Casablanca,https://www.timeanddate.com/weather/morocco/casablanca,Wed 4:43 am,Mild.,68 °F
+Pituffik,https://www.timeanddate.com/weather/greenland/pituffik,Wed 12:43 am,Partly sunny. Chilly.,28 °F
+Castries,https://www.timeanddate.com/weather/saint-lucia/castries,Tue 11:43 pm,Passing clouds. Warm.,81 °F
+Podgorica,https://www.timeanddate.com/weather/montenegro/podgorica,Wed 5:43 am,Passing clouds. Mild.,66 °F
+Cayenne,https://www.timeanddate.com/weather/france/cayenne,Wed 12:43 am,Light rain. Partly cloudy. Mild.,75 °F
+Pond Inlet,https://www.timeanddate.com/weather/canada/pond-inlet,Tue 11:43 pm,Sunny. Chilly.,30 °F
+Charleston,https://www.timeanddate.com/weather/usa/charleston-wv,Tue 11:43 pm,Passing clouds. Cool.,59 °F
+Ponta Delgada,https://www.timeanddate.com/weather/portugal/ponta-delgada-azores,Wed 3:43 am,Partly cloudy. Mild.,64 °F
+Chelyabinsk,https://www.timeanddate.com/weather/russia/chelyabinsk,Wed 8:43 am,Sunny. Cool.,61 °F
+Pontianak,https://www.timeanddate.com/weather/indonesia/pontianak,Wed 10:43 am,Scattered clouds. Hot.,89 °F
+Chennai,https://www.timeanddate.com/weather/india/chennai,Wed 9:13 am,Passing clouds. Hot.,90 °F
+Port-au-Prince,https://www.timeanddate.com/weather/haiti/port-au-prince,Tue 11:43 pm,Sandstorm. Warm.,88 °F
+Cheyenne,https://www.timeanddate.com/weather/usa/cheyenne,Tue 9:43 pm,Clear. Mild.,64 °F
+Port-aux-Francais,https://www.timeanddate.com/weather/kerguelen/port-aux-francais,Wed 8:43 am,Passing clouds. Quite cool.,43 °F
+Chibougamau,https://www.timeanddate.com/weather/canada/chibougamau,Tue 11:43 pm,Clear. Cool.,55 °F
+Port Louis,https://www.timeanddate.com/weather/mauritius/port-louis,Wed 7:43 am,Passing clouds. Mild.,68 °F
+Chicago,https://www.timeanddate.com/weather/usa/chicago,Tue 10:43 pm,Clear. Refreshingly cool.,62 °F
+Port of Spain,https://www.timeanddate.com/weather/trinidad-and-tobago/port-of-spain,Tue 11:43 pm,Passing clouds. Warm.,81 °F
+Chita,https://www.timeanddate.com/weather/russia/chita,Wed 12:43 pm,Scattered clouds. Cool.,54 °F
+Port Vila,https://www.timeanddate.com/weather/vanuatu/port-vila,Wed 2:43 pm,Scattered clouds. Warm.,81 °F
+Chișinău,https://www.timeanddate.com/weather/moldova/chisinau,Wed 6:43 am,Rain. Low clouds. Cool.,57 °F
+Portland,https://www.timeanddate.com/weather/usa/portland-or,Tue 8:43 pm,Partly sunny. Pleasantly warm.,80 °F
+Chongqing,https://www.timeanddate.com/weather/china/chongqing,Wed 11:43 am,Scattered clouds. Mild.,72 °F
+Porto Novo,https://www.timeanddate.com/weather/benin/porto-novo,Wed 4:43 am,Passing clouds. Warm.,84 °F
+Colombo,https://www.timeanddate.com/weather/sri-lanka/colombo,Wed 9:13 am,Overcast. Warm.,83 °F
+Prague,https://www.timeanddate.com/weather/czech-republic/prague,Wed 5:43 am,Light rain. Passing clouds. Cool.,57 °F
+Columbia,https://www.timeanddate.com/weather/usa/columbia,Tue 11:43 pm,Clear. Cool.,62 °F
+Praia,https://www.timeanddate.com/weather/cape-verde/praia,Wed 2:43 am,Passing clouds. Mild.,76 °F
+Columbus,https://www.timeanddate.com/weather/usa/columbus,Tue 11:43 pm,Passing clouds. Mild.,63 °F
+Pretoria,https://www.timeanddate.com/weather/south-africa/pretoria,Wed 5:43 am,Quite cool.,43 °F
+Concord,https://www.timeanddate.com/weather/usa/concord,Tue 11:43 pm,Sunny. Mild.,70 °F
+Pristina,https://www.timeanddate.com/weather/kosovo/pristina,Wed 5:43 am,Cool.,59 °F
+Copenhagen,https://www.timeanddate.com/weather/denmark/copenhagen,Wed 5:43 am,Partly sunny. Cool.,59 °F
+Providence,https://www.timeanddate.com/weather/usa/providence,Tue 11:43 pm,Partly cloudy. Refreshingly cool.,61 °F
+Coral Harbour,https://www.timeanddate.com/weather/canada/coral-harbour,Tue 10:43 pm,Partly sunny. Chilly.,36 °F
+Pune,https://www.timeanddate.com/weather/india/pune,Wed 9:13 am,Sunny. Mild.,77 °F
+Córdoba,https://www.timeanddate.com/weather/argentina/cordoba,Wed 12:43 am,Overcast. Cool.,55 °F
+Punta Arenas,https://www.timeanddate.com/weather/chile/punta-arenas,Wed 12:43 am,Fog. Quite cool.,44 °F
+Dakar,https://www.timeanddate.com/weather/senegal/dakar,Wed 3:43 am,Clear. Mild.,75 °F
+Pyongyang,https://www.timeanddate.com/weather/north-korea/pyongyang,Wed 12:43 pm,Overcast. Mild.,68 °F
+Dallas,https://www.timeanddate.com/weather/usa/dallas,Tue 10:43 pm,Mostly cloudy. Warm.,77 °F
+Québec,https://www.timeanddate.com/weather/canada/quebec,Tue 11:43 pm,Passing clouds. Cool.,59 °F
+Damascus,https://www.timeanddate.com/weather/syria/damascus,Wed 6:43 am,Cool.,59 °F
+Quito,https://www.timeanddate.com/weather/ecuador/quito,Tue 10:43 pm,Passing clouds. Cool.,50 °F
+Danmarkshavn,https://www.timeanddate.com/weather/greenland/danmarkshavn,Wed 3:43 am,Low clouds. Chilly.,29 °F
+Rabat,https://www.timeanddate.com/weather/morocco/rabat,Wed 4:43 am,Passing clouds. Mild.,68 °F
+Dar es Salaam,https://www.timeanddate.com/weather/tanzania/dar-es-salaam,Wed 6:43 am,Fog. Mild.,73 °F
+Raleigh,https://www.timeanddate.com/weather/usa/raleigh,Tue 11:43 pm,Passing clouds. Mild.,63 °F
+Darwin,https://www.timeanddate.com/weather/australia/darwin,Wed 1:13 pm,Scattered clouds. Warm.,86 °F
+Rapid City,https://www.timeanddate.com/weather/usa/rapid-city,Tue 9:43 pm,Passing clouds. Cool.,62 °F
+Delhi,https://www.timeanddate.com/weather/india/delhi,Wed 9:13 am,Haze. Hot.,89 °F
+Rarotonga,https://www.timeanddate.com/weather/cook-islands/rarotonga,Tue 5:43 pm,Partly sunny. Mild.,75 °F
+Denpasar,https://www.timeanddate.com/weather/indonesia/denpasar,Wed 11:43 am,Passing clouds. Warm.,85 °F
+Recife,https://www.timeanddate.com/weather/brazil/recife,Wed 12:43 am,Fog. Mild.,75 °F
+Denver,https://www.timeanddate.com/weather/usa/denver,Tue 9:43 pm,Passing clouds. Mild.,69 °F
+Regina,https://www.timeanddate.com/weather/canada/regina,Tue 9:43 pm,Passing clouds. Cool.,59 °F
+Des Moines,https://www.timeanddate.com/weather/usa/des-moines,Tue 10:43 pm,Partly cloudy. Mild.,72 °F
+Resolute Bay,https://www.timeanddate.com/weather/canada/resolute,Tue 10:43 pm,Low clouds. Chilly.,27 °F
+Detroit,https://www.timeanddate.com/weather/usa/detroit,Tue 11:43 pm,Clear. Mild.,64 °F
+Reykjavik,https://www.timeanddate.com/weather/iceland/reykjavik,Wed 3:43 am,Light rain. Overcast. Cool.,50 °F
+Dhaka,https://www.timeanddate.com/weather/bangladesh/dhaka,Wed 9:43 am,Scattered clouds. Warm.,85 °F
+Richmond,https://www.timeanddate.com/weather/usa/richmond,Tue 11:43 pm,Clear. Refreshingly cool.,59 °F
+Dnipro,https://www.timeanddate.com/weather/ukraine/dnipro,Wed 6:43 am,Overcast. Cool.,59 °F
+Riga,https://www.timeanddate.com/weather/latvia/riga,Wed 6:43 am,Sunny. Cool.,54 °F
+Dodoma,https://www.timeanddate.com/weather/tanzania/dodoma,Wed 6:43 am,Passing clouds. Mild.,66 °F
+Rio Branco,https://www.timeanddate.com/weather/brazil/rio-branco,Tue 10:43 pm,Clear. Mild.,72 °F
+Doha,https://www.timeanddate.com/weather/qatar/doha,Wed 6:43 am,Sunny. Extremely hot.,97 °F
+Rio de Janeiro,https://www.timeanddate.com/weather/brazil/rio-de-janeiro,Wed 12:43 am,Light rain. Overcast. Mild.,68 °F
+Douglas,https://www.timeanddate.com/weather/isle-of-man/douglas,Wed 4:43 am,Passing clouds. Cool.,55 °F
+Riyadh,https://www.timeanddate.com/weather/saudi-arabia/riyadh,Wed 6:43 am,Clear. Hot.,91 °F
+Dover,https://www.timeanddate.com/weather/usa/dover,Tue 11:43 pm,Clear. Mild.,64 °F
+Rome,https://www.timeanddate.com/weather/italy/rome,Wed 5:43 am,Passing clouds. Mild.,70 °F
+Dubai,https://www.timeanddate.com/weather/united-arab-emirates/dubai,Wed 7:43 am,Sunny. Warm.,86 °F
+Roseau,https://www.timeanddate.com/weather/dominica/roseau,Tue 11:43 pm,Passing clouds. Warm.,81 °F
+Dublin,https://www.timeanddate.com/weather/ireland/dublin,Wed 4:43 am,Passing clouds. Cool.,54 °F
+Rovaniemi,https://www.timeanddate.com/weather/finland/rovaniemi,Wed 6:43 am,Passing clouds. Quite cool.,41 °F
+Dushanbe,https://www.timeanddate.com/weather/tajikistan/dushanbe,Wed 8:43 am,Clear. Mild.,73 °F
+Sacramento,https://www.timeanddate.com/weather/usa/sacramento,Tue 8:43 pm,Sunny. Mild.,74 °F
+Easter Island,https://www.timeanddate.com/weather/chile/easter-island,Tue 9:43 pm,Passing clouds. Cool.,55 °F
+Saint-Denis,https://www.timeanddate.com/weather/reunion/saint-denis,Wed 7:43 am,Passing clouds. Mild.,72 °F
+Edinburgh,https://www.timeanddate.com/weather/uk/edinburgh,Wed 4:43 am,Partly cloudy. Cool.,50 °F
+Saint George's,https://www.timeanddate.com/weather/grenada/saint-georges,Tue 11:43 pm,Passing clouds. Warm.,82 °F
+Edmonton,https://www.timeanddate.com/weather/canada/edmonton,Tue 9:43 pm,Mostly cloudy. Cool.,48 °F
+Saint John (New Brunswick),https://www.timeanddate.com/weather/canada/saint-john,Wed 12:43 am,Passing clouds. Quite cool.,41 °F
+El Aaiún,https://www.timeanddate.com/weather/western-sahara/el-aaiun,Wed 4:43 am,Overcast. Mild.,70 °F
+Saint John's (Antigua),https://www.timeanddate.com/weather/antigua-and-barbuda/saint-johns,Tue 11:43 pm,Passing clouds. Warm.,79 °F
+Eucla,https://www.timeanddate.com/weather/australia/eucla,Wed 12:28 pm,Refreshingly cool.,62 °F
+Saint Paul,https://www.timeanddate.com/weather/usa/st-paul,Tue 10:43 pm,Clear. Mild.,72 °F
+Eureka,https://www.timeanddate.com/weather/canada/eureka,Tue 10:43 pm,Partly sunny. Chilly.,28 °F
+Saint Petersburg,https://www.timeanddate.com/weather/russia/saint-peterburg,Wed 6:43 am,Passing clouds. Cool.,54 °F
+Fairbanks,https://www.timeanddate.com/weather/usa/fairbanks,Tue 7:43 pm,Broken clouds. Mild.,66 °F
+Salem,https://www.timeanddate.com/weather/usa/salem,Tue 8:43 pm,Sunny. Pleasantly warm.,77 °F
+Fort-de-France,https://www.timeanddate.com/weather/martinique/fort-de-france,Tue 11:43 pm,Passing clouds. Warm.,79 °F
+Salt Lake City,https://www.timeanddate.com/weather/usa/salt-lake-city,Tue 9:43 pm,Passing clouds. Mild.,75 °F
+Fortaleza,https://www.timeanddate.com/weather/brazil/fortaleza,Wed 12:43 am,Passing clouds. Warm.,81 °F
+Salvador,https://www.timeanddate.com/weather/brazil/salvador,Wed 12:43 am,Sprinkles. Partly cloudy. Mild.,73 °F
+Frankfurt,https://www.timeanddate.com/weather/germany/frankfurt,Wed 5:43 am,Sunny. Cool.,52 °F
+Samara,https://www.timeanddate.com/weather/russia/samara,Wed 7:43 am,Scattered clouds. Cool.,54 °F
+Freetown,https://www.timeanddate.com/weather/sierra-leone/freetown,Wed 3:43 am,Passing clouds. Warm.,81 °F
+San Diego,https://www.timeanddate.com/weather/usa/san-diego,Tue 8:43 pm,Passing clouds. Mild.,64 °F
+Funafuti,https://www.timeanddate.com/weather/tuvalu/funafuti,Wed 3:43 pm,Passing clouds. Hot.,90 °F
+San Francisco,https://www.timeanddate.com/weather/usa/san-francisco,Tue 8:43 pm,Broken clouds. Cool.,56 °F
+Gaborone,https://www.timeanddate.com/weather/botswana/gaborone,Wed 5:43 am,Clear. Chilly.,39 °F
+San Jose (Costa Rica),https://www.timeanddate.com/weather/costa-rica/san-jose,Tue 9:43 pm,Passing clouds. Warm.,77 °F
+Geneva,https://www.timeanddate.com/weather/switzerland/geneva,Wed 5:43 am,Passing clouds. Cool.,55 °F
+San Jose (US-CA),https://www.timeanddate.com/weather/usa/san-jose,Tue 8:43 pm,Partly sunny. Mild.,63 °F
+George Town (Cayman Islands),https://www.timeanddate.com/weather/cayman-islands/george-town,Tue 10:43 pm,Passing clouds. Warm.,84 °F
+San Juan,https://www.timeanddate.com/weather/puerto-rico/san-juan,Tue 11:43 pm,Passing clouds. Warm.,79 °F
+Georgetown (Guyana),https://www.timeanddate.com/weather/guyana/georgetown,Tue 11:43 pm,Overcast. Warm.,83 °F
+San Marino,https://www.timeanddate.com/weather/san-marino/san-marino,Wed 5:43 am,Rain. Passing clouds. Mild.,63 °F
+Gibraltar,https://www.timeanddate.com/weather/gibraltar/gibraltar,Wed 5:43 am,Clear. Mild.,72 °F
+San Salvador,https://www.timeanddate.com/weather/el-salvador/san-salvador,Tue 9:43 pm,Passing clouds. Warm.,81 °F
+Gitega,https://www.timeanddate.com/weather/burundi/gitega,Wed 5:43 am,Passing clouds. Mild.,73 °F
+Santiago,https://www.timeanddate.com/weather/chile/santiago,Tue 11:43 pm,Clear. Cool.,50 °F
+Glasgow,https://www.timeanddate.com/weather/uk/glasgow,Wed 4:43 am,Overcast. Cool.,54 °F
+Santo Domingo,https://www.timeanddate.com/weather/dominican-republic/santo-domingo,Tue 11:43 pm,Passing clouds. Warm.,83 °F
+Guadalajara,https://www.timeanddate.com/weather/mexico/guadalajara,Tue 9:43 pm,Partly cloudy. Warm.,77 °F
+São Paulo,https://www.timeanddate.com/weather/brazil/sao-paulo,Wed 12:43 am,Light rain. Low clouds. Cool.,59 °F
+Guatemala City,https://www.timeanddate.com/weather/guatemala/guatemala,Tue 9:43 pm,Clear. Mild.,68 °F
+São Tomé,https://www.timeanddate.com/weather/sao-tome-and-principe/sao-tome,Wed 3:43 am,Passing clouds. Warm.,82 °F
+Guayaquil,https://www.timeanddate.com/weather/ecuador/guayaquil,Tue 10:43 pm,Passing clouds. Warm.,79 °F
+Sapporo,https://www.timeanddate.com/weather/japan/sapporo,Wed 12:43 pm,Warm.,79 °F
+Hagåtña,https://www.timeanddate.com/weather/usa/guam-hagatna,Wed 1:43 pm,Scattered clouds. Warm.,86 °F
+Sarajevo,https://www.timeanddate.com/weather/bosnia-herzegovina/sarajevo,Wed 5:43 am,Sunny. Cool.,54 °F
+Halifax,https://www.timeanddate.com/weather/canada/halifax,Wed 12:43 am,Light rain. Passing clouds. Quite cool.,45 °F
+Seattle,https://www.timeanddate.com/weather/usa/seattle,Tue 8:43 pm,Sunny. Pleasantly warm.,81 °F
+Hamilton,https://www.timeanddate.com/weather/bermuda/hamilton,Wed 12:43 am,Passing clouds. Mild.,72 °F
+Seoul,https://www.timeanddate.com/weather/south-korea/seoul,Wed 12:43 pm,Passing clouds. Warm.,86 °F
+Hanoi,https://www.timeanddate.com/weather/vietnam/hanoi,Wed 10:43 am,Scattered clouds. Hot.,91 °F
+Shanghai,https://www.timeanddate.com/weather/china/shanghai,Wed 11:43 am,Passing clouds. Hot.,90 °F
+Happy Valley-Goose Bay,https://www.timeanddate.com/weather/canada/happy-valley-goose-bay,Wed 12:43 am,Sprinkles. Mostly cloudy. Cool.,46 °F
+Shenzhen,https://www.timeanddate.com/weather/china/shenzhen,Wed 11:43 am,Passing clouds. Warm.,88 °F
+Harare,https://www.timeanddate.com/weather/zimbabwe/harare,Wed 5:43 am,Clear. Cool.,49 °F
+Singapore,https://www.timeanddate.com/weather/singapore/singapore,Wed 11:43 am,Scattered clouds. Hot.,90 °F
+Hartford,https://www.timeanddate.com/weather/usa/hartford,Tue 11:43 pm,Clear. Cool.,61 °F
+Sioux Falls,https://www.timeanddate.com/weather/usa/sioux-falls,Tue 10:43 pm,Passing clouds. Mild.,73 °F
+Havana,https://www.timeanddate.com/weather/cuba/havana,Tue 11:43 pm,Passing clouds. Warm.,79 °F
+Skopje,https://www.timeanddate.com/weather/republic-of-macedonia/skopje,Wed 5:43 am,Sunny. Cool.,57 °F
+Helsinki,https://www.timeanddate.com/weather/finland/helsinki,Wed 6:43 am,Sunny. Cool.,54 °F
+Sofia,https://www.timeanddate.com/weather/bulgaria/sofia,Wed 6:43 am,Partly sunny. Cool.,56 °F
+Hermosillo,https://www.timeanddate.com/weather/mexico/hermosillo,Tue 8:43 pm,Clear. Extremely hot.,93 °F
+Sri Jayawardenepura Kotte,https://www.timeanddate.com/weather/sri-lanka/sri-jayawardenapura-kotte,Wed 9:13 am,Overcast. Warm.,83 °F
+Ho Chi Minh,https://www.timeanddate.com/weather/vietnam/ho-chi-minh,Wed 10:43 am,Partly sunny. Warm.,86 °F
+St. John's (Newfoundland),https://www.timeanddate.com/weather/canada/st-johns,Wed 1:13 am,Clear. Chilly.,36 °F
+Hobart,https://www.timeanddate.com/weather/australia/hobart,Wed 1:43 pm,Overcast. Cool.,55 °F
+St. Louis,https://www.timeanddate.com/weather/usa/st-louis,Tue 10:43 pm,Passing clouds. Mild.,70 °F
+Hong Kong,https://www.timeanddate.com/weather/hong-kong/hong-kong,Wed 11:43 am,Passing clouds. Hot.,90 °F
+Stanley,https://www.timeanddate.com/weather/falkland/stanley,Wed 12:43 am,Mostly cloudy. Quite cool.,41 °F
+Honiara,https://www.timeanddate.com/weather/solomon-islands/honiara,Wed 2:43 pm,Scattered clouds. Hot.,89 °F
+Stockholm,https://www.timeanddate.com/weather/sweden/stockholm,Wed 5:43 am,Overcast. Cool.,59 °F
+Honolulu,https://www.timeanddate.com/weather/usa/honolulu,Tue 5:43 pm,Mostly cloudy. Warm.,79 °F
+Surabaya,https://www.timeanddate.com/weather/indonesia/surabaya,Wed 10:43 am,Partly sunny. Hot.,89 °F
+Houston,https://www.timeanddate.com/weather/usa/houston,Tue 10:43 pm,Mostly cloudy. Warm.,77 °F
+Suva,https://www.timeanddate.com/weather/fiji/suva,Wed 3:43 pm,Passing clouds. Warm.,84 °F
+Hovd,https://www.timeanddate.com/weather/mongolia/hovd,Wed 10:43 am,Scattered clouds. Mild.,67 °F
+Suzhou,https://www.timeanddate.com/weather/china/suzhou,Wed 11:43 am,Passing clouds. Hot.,90 °F
+Indianapolis,https://www.timeanddate.com/weather/usa/indianapolis,Tue 11:43 pm,Passing clouds. Mild.,74 °F
+Sydney,https://www.timeanddate.com/weather/australia/sydney,Wed 1:43 pm,Sunny. Mild.,72 °F
+Indore,https://www.timeanddate.com/weather/india/indore,Wed 9:13 am,Haze. Mild.,76 °F
+Taipei,https://www.timeanddate.com/weather/taiwan/taipei,Wed 11:43 am,Passing clouds. Extremely hot.,95 °F
+Inuvik,https://www.timeanddate.com/weather/canada/inuvik,Tue 9:43 pm,Partly sunny. Refreshingly cool.,59 °F
+Tallinn,https://www.timeanddate.com/weather/estonia/tallinn,Wed 6:43 am,Sunny. Cool.,55 °F
+Irkutsk,https://www.timeanddate.com/weather/russia/irkutsk,Wed 11:43 am,Overcast. Cool.,53 °F
+Tarawa,https://www.timeanddate.com/weather/kiribati/tarawa,Wed 3:43 pm,Overcast. Hot.,88 °F
+Islamabad,https://www.timeanddate.com/weather/pakistan/islamabad,Wed 8:43 am,Partly sunny. Mild.,73 °F
+Tashkent,https://www.timeanddate.com/weather/uzbekistan/tashkent,Wed 8:43 am,Passing clouds. Mild.,68 °F
+Istanbul,https://www.timeanddate.com/weather/turkey/istanbul,Wed 6:43 am,Sunny. Mild.,68 °F
+Tbilisi,https://www.timeanddate.com/weather/georgia/tbilisi,Wed 7:43 am,Overcast. Cool.,52 °F
+Ittoqqortoormiit,https://www.timeanddate.com/weather/greenland/ittoqqortoormiit,Wed 2:43 am,Low clouds. Chilly.,31 °F
+Tegucigalpa,https://www.timeanddate.com/weather/honduras/tegucigalpa,Tue 9:43 pm,Clear. Warm.,77 °F
+Izhevsk,https://www.timeanddate.com/weather/russia/izhevsk,Wed 7:43 am,Passing clouds. Cool.,50 °F
+Tehran,https://www.timeanddate.com/weather/iran/tehran,Wed 7:13 am,Passing clouds. Mild.,68 °F
+Jackson,https://www.timeanddate.com/weather/usa/jackson,Tue 10:43 pm,Passing clouds. Warm.,77 °F
+Tel Aviv,https://www.timeanddate.com/weather/israel/tel-aviv,Wed 6:43 am,Sunny. Mild.,66 °F
+Jakarta,https://www.timeanddate.com/weather/indonesia/jakarta,Wed 10:43 am,Overcast. Warm.,87 °F
+Thimphu,https://www.timeanddate.com/weather/bhutan/thimphu,Wed 9:43 am,Chilly.,40 °F
+Jayapura,https://www.timeanddate.com/weather/indonesia/jayapura,Wed 12:43 pm,Overcast. Warm.,83 °F
+Thiruvananthapuram,https://www.timeanddate.com/weather/india/thiruvananthapuram,Wed 9:13 am,Fog. Warm.,86 °F
+Jerusalem,https://www.timeanddate.com/weather/israel/jerusalem,Wed 6:43 am,Cool.,61 °F
+Tijuana,https://www.timeanddate.com/weather/mexico/tijuana,Tue 8:43 pm,Passing clouds. Mild.,63 °F
+Johannesburg,https://www.timeanddate.com/weather/south-africa/johannesburg,Wed 5:43 am,Clear. Cool.,49 °F
+Tiksi,https://www.timeanddate.com/weather/russia/tiksi,Wed 12:43 pm,Overcast. Chilly.,33 °F
+Juneau,https://www.timeanddate.com/weather/usa/juneau,Tue 7:43 pm,Scattered clouds. Mild.,75 °F
+Tirana,https://www.timeanddate.com/weather/albania/tirana,Wed 5:43 am,Broken clouds. Mild.,64 °F
+Kaliningrad,https://www.timeanddate.com/weather/russia/kaliningrad,Wed 5:43 am,Passing clouds. Cool.,54 °F
+Tokyo,https://www.timeanddate.com/weather/japan/tokyo,Wed 12:43 pm,Sprinkles. Broken clouds. Mild.,70 °F
+Kampala,https://www.timeanddate.com/weather/uganda/kampala,Wed 6:43 am,Thunderstorms. Mostly cloudy. Mild.,68 °F
+Topeka,https://www.timeanddate.com/weather/usa/topeka,Tue 10:43 pm,Clear. Mild.,71 °F
+Kangerlussuaq,https://www.timeanddate.com/weather/greenland/kangerlussuaq,Wed 2:43 am,Light snow. Overcast. Chilly.,32 °F
+Toronto,https://www.timeanddate.com/weather/canada/toronto,Tue 11:43 pm,Passing clouds. Mild.,66 °F
+Kansas City,https://www.timeanddate.com/weather/usa/kansas-city,Tue 10:43 pm,Clear. Mild.,75 °F
+Tórshavn,https://www.timeanddate.com/weather/faroe/torshavn,Wed 4:43 am,Overcast. Cool.,48 °F
+Karachi,https://www.timeanddate.com/weather/pakistan/karachi,Wed 8:43 am,Haze. Hot.,90 °F
+Tromsø,https://www.timeanddate.com/weather/norway/tromso,Wed 5:43 am,Sunny. Cool.,52 °F
+Kathmandu,https://www.timeanddate.com/weather/nepal/kathmandu,Wed 9:28 am,Partly sunny. Warm.,77 °F
+Tunis,https://www.timeanddate.com/weather/tunisia/tunis,Wed 4:43 am,Passing clouds. Mild.,75 °F
+Kazan,https://www.timeanddate.com/weather/russia/kazan,Wed 6:43 am,Scattered clouds. Cool.,54 °F
+Ufa,https://www.timeanddate.com/weather/russia/ufa,Wed 8:43 am,Fog. Cool.,54 °F
+Kemi,https://www.timeanddate.com/weather/finland/kemi,Wed 6:43 am,Passing clouds. Cool.,48 °F
+Ulaanbaatar,https://www.timeanddate.com/weather/mongolia/ulaanbaatar,Wed 11:43 am,Scattered clouds. Cool.,50 °F
+Khatanga,https://www.timeanddate.com/weather/russia/khatanga,Wed 10:43 am,Partly sunny. Cool.,52 °F
+Unalaska,https://www.timeanddate.com/weather/usa/unalaska,Tue 7:43 pm,Fog. Quite cool.,42 °F
+Kigali,https://www.timeanddate.com/weather/rwanda/kigali,Wed 5:43 am,Passing clouds. Mild.,64 °F
+Ürümqi,https://www.timeanddate.com/weather/china/urumqi,Wed 11:43 am,Mild.,75 °F
+Kingston,https://www.timeanddate.com/weather/jamaica/kingston,Tue 10:43 pm,Warm.,84 °F
+Vaduz,https://www.timeanddate.com/weather/liechtenstein/vaduz,Wed 5:43 am,Passing clouds. Cool.,57 °F
+Kingstown,https://www.timeanddate.com/weather/saint-vincent-and-grenadines/kingstown,Tue 11:43 pm,Passing clouds. Warm.,81 °F
+Valletta,https://www.timeanddate.com/weather/malta/valletta,Wed 5:43 am,Passing clouds. Mild.,72 °F
+Kinshasa,https://www.timeanddate.com/weather/congo-demrep/kinshasa,Wed 4:43 am,Clear. Mild.,73 °F
+Vancouver,https://www.timeanddate.com/weather/canada/vancouver,Tue 8:43 pm,Partly sunny. Mild.,66 °F
+Kiritimati,https://www.timeanddate.com/weather/kiribati/kiritimati,Wed 5:43 pm,Sprinkles. Passing clouds. Warm.,84 °F
+Varanasi,https://www.timeanddate.com/weather/india/varanasi,Wed 9:13 am,Scattered clouds. Hot.,90 °F
+Knoxville,https://www.timeanddate.com/weather/usa/knoxville,Tue 11:43 pm,Passing clouds. Mild.,67 °F
+Vatican City,https://www.timeanddate.com/weather/vatican-city-state/vatican-city,Wed 5:43 am,Passing clouds. Mild.,70 °F
+Kobe,https://www.timeanddate.com/weather/japan/kobe,Wed 12:43 pm,Partly sunny. Warm.,77 °F
+Veracruz,https://www.timeanddate.com/weather/mexico/veracruz,Tue 9:43 pm,Passing clouds. Warm.,84 °F
+Kolkata,https://www.timeanddate.com/weather/india/kolkata,Wed 9:13 am,Haze. Hot.,91 °F
+Verkhoyansk,https://www.timeanddate.com/weather/russia/verkhoyansk,Wed 1:43 pm,Partly sunny. Mild.,63 °F
+Komsomolsk-on-Amur,https://www.timeanddate.com/weather/russia/komsomolsk-on-amur,Wed 1:43 pm,Sprinkles. Overcast. Quite cool.,43 °F
+Victoria,https://www.timeanddate.com/weather/seychelles/victoria,Wed 7:43 am,Scattered clouds. Warm.,81 °F
+Krasnoyarsk,https://www.timeanddate.com/weather/russia/krasnoyarsk,Wed 10:43 am,Sunny. Cool.,51 °F
+Vienna,https://www.timeanddate.com/weather/austria/vienna,Wed 5:43 am,Sunny. Mild.,64 °F
+Kuala Lumpur,https://www.timeanddate.com/weather/malaysia/kuala-lumpur,Wed 11:43 am,Passing clouds. Warm.,88 °F
+Vientiane,https://www.timeanddate.com/weather/laos/vientiane,Wed 10:43 am,Scattered clouds. Hot.,90 °F
+Kuujjuaq,https://www.timeanddate.com/weather/canada/kuujjuaq,Tue 11:43 pm,Mostly cloudy. Cool.,50 °F
+Vilnius,https://www.timeanddate.com/weather/lithuania/vilnius,Wed 6:43 am,Sunny. Cool.,57 °F
+Kuwait City,https://www.timeanddate.com/weather/kuwait/kuwait-city,Wed 6:43 am,Sunny. Pleasantly warm.,85 °F
+Vladivostok,https://www.timeanddate.com/weather/russia/vladivostok,Wed 1:43 pm,Scattered clouds. Mild.,64 °F
+Kyiv,https://www.timeanddate.com/weather/ukraine/kyiv,Wed 6:43 am,Light rain. Overcast. Cool.,54 °F
+Wake Island,https://www.timeanddate.com/weather/usa/wake-island,Wed 3:43 pm,Sunny. Warm.,85 °F
+Kyoto,https://www.timeanddate.com/weather/japan/kyoto,Wed 12:43 pm,Partly sunny. Warm.,77 °F
+Warsaw,https://www.timeanddate.com/weather/poland/warsaw,Wed 5:43 am,Passing clouds. Cool.,55 °F
+La Paz (Bolivia),https://www.timeanddate.com/weather/bolivia/la-paz,Tue 11:43 pm,Fog. Chilly.,33 °F
+Washington DC,https://www.timeanddate.com/weather/usa/washington-dc,Tue 11:43 pm,Passing clouds. Mild.,65 °F
+Lagos,https://www.timeanddate.com/weather/nigeria/lagos,Wed 4:43 am,Passing clouds. Warm.,82 °F
+Wellington,https://www.timeanddate.com/weather/new-zealand/wellington,Wed 3:43 pm,Partly sunny. Cool.,57 °F
+Lahore,https://www.timeanddate.com/weather/pakistan/lahore,Wed 8:43 am,Scattered clouds. Warm.,81 °F
+Whitehorse,https://www.timeanddate.com/weather/canada/whitehorse,Tue 8:43 pm,Scattered clouds. Mild.,75 °F
+Las Vegas,https://www.timeanddate.com/weather/usa/las-vegas,Tue 8:43 pm,Partly sunny. Extremely hot.,100 °F
+Windhoek,https://www.timeanddate.com/weather/namibia/windhoek,Wed 5:43 am,Cool.,49 °F
+Lhasa,https://www.timeanddate.com/weather/china/lhasa,Wed 11:43 am,Refreshingly cool.,59 °F
+Winnipeg,https://www.timeanddate.com/weather/canada/winnipeg,Tue 10:43 pm,Mild.,66 °F
+Libreville,https://www.timeanddate.com/weather/gabon/libreville,Wed 4:43 am,Passing clouds. Warm.,81 °F
+Yakutsk,https://www.timeanddate.com/weather/russia/yakutsk,Wed 12:43 pm,Sunny. Mild.,66 °F
+Lima,https://www.timeanddate.com/weather/peru/lima,Tue 10:43 pm,Overcast. Mild.,70 °F
+Yangon,https://www.timeanddate.com/weather/myanmar/yangon,Wed 10:13 am,Scattered clouds. Warm.,88 °F
+Lincoln,https://www.timeanddate.com/weather/usa/lincoln,Tue 10:43 pm,Clear. Mild.,73 °F
+Yaoundé,https://www.timeanddate.com/weather/cameroon/yaounde,Wed 4:43 am,Fog. Mild.,72 °F
+Lisbon,https://www.timeanddate.com/weather/portugal/lisbon,Wed 4:43 am,Passing clouds. Mild.,63 °F
+Yekaterinburg,https://www.timeanddate.com/weather/russia/yekaterinburg,Wed 8:43 am,Sunny. Cool.,57 °F
+Little Rock,https://www.timeanddate.com/weather/usa/little-rock,Tue 10:43 pm,High level clouds. Warm.,77 °F
+Yellowknife,https://www.timeanddate.com/weather/canada/yellowknife,Tue 9:43 pm,Partly sunny. Refreshingly cool.,59 °F
+Ljubljana,https://www.timeanddate.com/weather/slovenia/ljubljana,Wed 5:43 am,Sprinkles. Mostly cloudy. Cool.,59 °F
+Yerevan,https://www.timeanddate.com/weather/armenia/yerevan,Wed 7:43 am,Sunny. Refreshingly cool.,57 °F
+Lomé,https://www.timeanddate.com/weather/togo/lome,Wed 3:43 am,Passing clouds. Warm.,81 °F
+Yokohama,https://www.timeanddate.com/weather/japan/yokohama,Wed 12:43 pm,Partly sunny. Mild.,70 °F
+London,https://www.timeanddate.com/weather/uk/london,Wed 4:43 am,Passing clouds. Cool.,54 °F
+Yuzhno-Sakhalinsk,https://www.timeanddate.com/weather/russia/yuzhno-sakhalinsk,Wed 2:43 pm,Scattered clouds. Mild.,66 °F
+Longyearbyen,https://www.timeanddate.com/weather/norway/longyearbyen,Wed 5:43 am,Scattered showers. Partly sunny. Quite cool.,41 °F
+Zagreb,https://www.timeanddate.com/weather/croatia/zagreb,Wed 5:43 am,Passing clouds. Mild.,64 °F
+Los Angeles,https://www.timeanddate.com/weather/usa/los-angeles,Tue 8:43 pm,Passing clouds. Mild.,64 °F
+Zürich,https://www.timeanddate.com/weather/switzerland/zurich,Wed 5:43 am,Partly cloudy. Cool.,55 °F
+Louisville,https://www.timeanddate.com/weather/usa/louisville,Tue 11:43 pm,Clear. Mild.,69 °F
