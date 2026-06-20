@@ -1,31 +1,18 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver import ActionChains
-from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
 from time import sleep
 
-import json
 import pandas as pd
-import sqlite3
-
-
-# def scroll_to_select(driver):
-#     iframe = driver.find_element(By.CLASS_NAME, 'tb-options')
-#     ActionChains(driver)\
-#         .scroll_to_element(iframe)\
-#         .perform()
-#     sleep(1)
 
 
 def sun_scrape(driver, year, month):
+    '''Takes driver, year, and month from main function.
+    Sift through the various elements to extract desired data. Appends data to dictionary.'''
     sun_table = driver.find_element(By.ID, 'as-monthsun')
     sun_table_body = sun_table.find_element(By.TAG_NAME, 'tbody')
-    sun_table_days = sun_table_body.find_elements(By.TAG_NAME, 'tr')
+    sun_table_days = sun_table_body.find_elements(By.TAG_NAME, 'tr') # Pulls each line of data
 
+    # Iterate through the lines while avoiding data that isn't needed.
     for day in sun_table_days:
         date = day.find_element(By.TAG_NAME, 'th').text
         date = f'{year}-{date}-{month}'
@@ -41,12 +28,24 @@ def sun_scrape(driver, year, month):
             sun_data[cat].append(day_values[i].text)
 
 
-def sun_times(sun_driver, nyc_months, nyc_years):
+def sun_times(driver, nyc_months, nyc_years):
     sleep(2)
-    driver = sun_driver
+
+    # Search for city names on the main world weather page. Find 'New York' and click to get to that page
+    weather_table = driver.find_element(By.CSS_SELECTOR, '.tb-scroll table tbody')
+    weather_pairs = weather_table.find_elements(By.TAG_NAME, 'tr')
+    city_links = weather_table.find_elements(By.TAG_NAME, 'a')
+    for link in city_links:
+        if link.text == 'New York':
+            link.click()
+            break
+        else:
+            pass
+
     bk_nav = driver.find_element(By.ID, 'bk-nav')
     bk_links = bk_nav.find_elements(By.TAG_NAME, 'a')
 
+    # Switch over to sun section
     for item in bk_links:
         if item.text == 'Sun & Moon':
             item.click()
@@ -66,12 +65,11 @@ def sun_times(sun_driver, nyc_months, nyc_years):
             pass
     sleep(1)
 
-    # scroll_to_select(driver)
-
-    for year in nyc_years:
+    # Iterate through years and months to send data over to the scraping function
+    for year in range(int(nyc_years[0]), int(nyc_years[1])):
         year_parent = driver.find_element(By.CLASS_NAME, 'freetextselect')
         year_select = Select(year_parent.find_element(By.TAG_NAME, 'select'))
-        year_select.select_by_value(year)
+        year_select.select_by_value(str(year))
         for month in nyc_months:
             sleep(1)
             month_parent = driver.find_element(By.CLASS_NAME, 'tb-select')
@@ -80,7 +78,7 @@ def sun_times(sun_driver, nyc_months, nyc_years):
             driver.find_element(By.CSS_SELECTOR, 'input.mgl10').click()
             sleep(1)
 
-            sun_scrape(driver, year, month)
+            sun_scrape(driver, str(year), month)
 
     driver.quit()
 
