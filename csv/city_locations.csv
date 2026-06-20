@@ -1,138 +1,140 @@
-city,latitude,longitude,elevation
-Accra,5°33'N,0°12'W,22 m
-Frankfurt,50°07'N,8°41'E,107 m
-New Delhi,28°37'N,77°13'E,215 m
-Addis Ababa,9°01'N,38°45'E,2354 m
-Guatemala City,14°37'N,90°32'W,1533 m
-New Orleans,29°57'N,90°04'W,1 m
-Adelaide,34°56'S,138°36'E,62 m
-Halifax,44°39'N,63°35'W,11 m
-New York,40°43'N,74°01'W,8 m
-Algiers,36°46'N,3°03'E,44 m
-Hanoi,21°02'N,105°51'E,20 m
-Oslo,59°55'N,10°44'E,11 m
-Almaty,43°15'N,76°55'E,790 m
-Harare,17°50'S,31°03'E,1490 m
-Ottawa,45°25'N,75°42'W,76 m
-Amman,31°57'N,35°55'E,816 m
-Havana,23°08'N,82°22'W,18 m
-Paris,48°51'N,2°21'E,39 m
-Amsterdam,52°22'N,4°54'E,13 m
-Helsinki,60°10'N,24°57'E,8 m
-Perth,31°57'S,115°51'E,50 m
-Anadyr,64°44'N,177°31'E,43 m
-Hong Kong,22°19'N,114°11'E,55 m
-Philadelphia,39°57'N,75°10'W,12 m
-Anchorage,61°11'N,149°53'W,31 m
-Honolulu,21°19'N,157°51'W,11 m
-Phoenix,33°27'N,112°04'W,330 m
-Ankara,39°55'N,32°51'E,871 m
-Houston,29°45'N,95°22'W,15 m
-Prague,50°05'N,14°25'E,201 m
-Antananarivo,18°55'S,47°32'E,1287 m
-Indianapolis,39°46'N,86°09'W,217 m
-Reykjavik,64°09'N,21°57'W,15 m
-Asuncion,25°17'S,57°38'W,102 m
-Islamabad,33°43'N,73°04'E,554 m
-Rio de Janeiro,22°58'S,43°11'W,27 m
-Athens,37°59'N,23°44'E,69 m
-Istanbul,41°01'N,28°58'E,48 m
-Riyadh,24°38'N,46°43'E,590 m
-Atlanta,33°46'N,84°23'W,313 m
-Jakarta,6°09'S,106°49'E,4 m
-Rome,41°54'N,12°29'E,37 m
-Auckland,36°51'S,174°46'E,48 m
-Jerusalem,31°47'N,35°13'E,769 m
-Salt Lake City,40°46'N,111°53'W,1312 m
-Bangkok,13°44'N,100°30'E,9 m
-Johannesburg,26°12'S,28°03'E,1754 m
-San Francisco,37°47'N,122°25'W,20 m
-Barcelona,41°23'N,2°11'E,25 m
-Karachi,24°52'N,67°02'E,18 m
-San Juan,18°28'N,66°07'W,33 m
-Beijing,39°55'N,116°23'E,62 m
-Kathmandu,27°43'N,85°19'E,1305 m
-San Salvador,13°42'N,89°12'W,667 m
-Beirut,33°53'N,35°29'E,86 m
-Kingston,18°00'N,76°47'W,68 m
-Santiago,33°26'S,70°39'W,576 m
-Belgrade,44°49'N,20°27'E,131 m
-Kinshasa,4°19'S,15°19'E,280 m
-Santo Domingo,18°28'N,69°56'W,63 m
-Bengaluru,12°58'N,77°34'E,876 m
-Kiritimati,1°52'N,157°20'W,0 m
-São Paulo,23°33'S,46°38'W,765 m
-Berlin,52°31'N,13°23'E,32 m
-Kolkata,22°35'N,88°21'E,18 m
-Seattle,47°37'N,122°21'W,41 m
-Bogota,4°36'N,74°05'W,2618 m
-Kuala Lumpur,3°09'N,101°42'E,33 m
-Seoul,37°34'N,126°59'E,38 m
-Boston,42°21'N,71°03'W,6 m
-Kuwait City,29°23'N,47°58'E,11 m
-Shanghai,31°14'N,121°29'E,12 m
-Brasilia,15°48'S,47°53'W,1091 m
-Kyiv,50°26'N,30°31'E,152 m
-Singapore,1°17'N,103°51'E,93 m
-Brisbane,27°28'S,153°02'E,28 m
-La Paz,16°30'S,68°08'W,3606 m
-Sofia,42°42'N,23°19'E,551 m
-Brussels,50°51'N,4°21'E,30 m
-Lagos,6°27'N,3°21'E,7 m
-St. John's,47°34'N,52°43'W,12 m
-Bucharest,44°26'N,26°06'E,87 m
-Lahore,31°35'N,74°18'E,214 m
-Stockholm,59°20'N,18°04'E,3 m
-Budapest,47°30'N,19°03'E,118 m
-Las Vegas,36°08'N,115°10'W,629 m
-Suva,18°08'S,178°26'E,8 m
-Buenos Aires,34°37'S,58°23'W,34 m
-Lima,12°03'S,77°02'W,147 m
-Sydney,33°52'S,151°12'E,66 m
-Cairo,30°03'N,31°14'E,22 m
-Lisbon,38°44'N,9°09'W,89 m
-Taipei,25°04'N,121°31'E,12 m
-Calgary,51°03'N,114°04'W,1063 m
-Tallinn,59°26'N,24°45'E,28 m
-Canberra,35°17'S,149°08'E,577 m
-Los Angeles,34°03'N,118°15'W,92 m
-Tashkent,41°19'N,69°17'E,453 m
-Cape Town,33°55'S,18°25'E,31 m
-Madrid,40°25'N,3°42'W,658 m
-Tegucigalpa,14°06'N,87°12'W,1054 m
-Caracas,10°30'N,66°54'W,875 m
-Managua,12°09'N,86°16'W,64 m
-Tehran,35°42'N,51°25'E,1179 m
-Casablanca,33°36'N,7°37'W,25 m
-Manila,14°35'N,120°59'E,1 m
-Chicago,41°53'N,87°38'W,181 m
-Melbourne,37°49'S,144°58'E,27 m
-Toronto,43°39'N,79°23'W,84 m
-Copenhagen,55°41'N,12°34'E,6 m
-Mexico City,19°25'N,99°08'W,2241 m
-Vancouver,49°17'N,123°07'W,33 m
-Dallas,32°47'N,96°48'W,131 m
-Miami,25°46'N,80°12'W,2 m
-Vienna,48°13'N,16°22'E,190 m
-Darwin,12°28'S,130°51'E,36 m
-Minneapolis,44°59'N,93°16'W,257 m
-Warsaw,52°14'N,21°00'E,138 m
-Denver,39°45'N,104°59'W,1593 m
-Minsk,53°54'N,27°33'E,220 m
-Washington DC,38°54'N,77°02'W,17 m
-Detroit,42°20'N,83°03'W,182 m
-Montevideo,34°54'S,56°11'W,46 m
-Winnipeg,49°54'N,97°08'W,228 m
-Dhaka,23°43'N,90°25'E,15 m
-Montréal,45°30'N,73°34'W,48 m
-Yangon,16°49'N,96°10'E,45 m
-Doha,25°17'N,51°32'E,14 m
-Moscow,55°45'N,37°37'E,147 m
-Zagreb,45°49'N,15°59'E,134 m
-Dubai,25°16'N,55°18'E,7 m
-Mumbai,18°57'N,72°50'E,10 m
-Zürich,47°22'N,8°32'E,407 m
-Dublin,53°21'N,6°16'W,17 m
-Nairobi,1°17'S,36°49'E,1680 m
-Edmonton,53°33'N,113°30'W,692 m
-Nassau,25°05'N,77°20'W,9 m
+city,date_time,weather_description,temperature
+Accra,Sat 1:20 am,Passing clouds. Mild.,75 °F
+Frankfurt,Sat 3:20 am,Passing clouds. Mild.,72 °F
+New Delhi,Sat 6:50 am,Sunny. Warm.,85 °F
+Addis Ababa,Sat 4:20 am,Passing clouds. Cool.,59 °F
+Guatemala City,Fri 7:20 pm,Passing clouds. Mild.,70 °F
+New Orleans,Fri 8:20 pm,Thundershowers. Passing clouds. Warm.,78 °F
+Adelaide,Sat 10:50 am,Quite cool.,52 °F
+Halifax,Fri 10:20 pm,Passing clouds. Mild.,63 °F
+New York,Fri 9:20 pm,Passing clouds. Mild.,75 °F
+Algiers,Sat 2:20 am,Passing clouds. Mild.,75 °F
+Hanoi,Sat 8:20 am,Passing clouds. Warm.,88 °F
+Oslo,Sat 3:20 am,Partly cloudy. Mild.,63 °F
+Almaty,Sat 6:20 am,More clouds than sun. Warm.,77 °F
+Harare,Sat 3:20 am,Clear. Cool.,56 °F
+Ottawa,Fri 9:20 pm,Sprinkles. Mostly cloudy. Cool.,61 °F
+Amman,Sat 4:20 am,Clear. Mild.,64 °F
+Havana,Fri 9:20 pm,Passing clouds. Warm.,81 °F
+Paris,Sat 3:20 am,Clear. Mild.,68 °F
+Amsterdam,Sat 3:20 am,Thundershowers. Passing clouds. Mild.,68 °F
+Helsinki,Sat 4:20 am,Clear. Cool.,54 °F
+Perth,Sat 9:20 am,Sunny. Cool.,50 °F
+Anadyr,Sat 1:20 pm,Passing clouds. Cool.,58 °F
+Hong Kong,Sat 9:20 am,Scattered clouds. Warm.,86 °F
+Philadelphia,Fri 9:20 pm,Passing clouds. Pleasantly warm.,80 °F
+Anchorage,Fri 5:20 pm,Sunny. Mild.,72 °F
+Honolulu,Fri 3:20 pm,Passing clouds. Warm.,86 °F
+Phoenix,Fri 6:20 pm,Passing clouds. Extremely hot.,104 °F
+Ankara,Sat 4:20 am,Passing clouds. Cool.,59 °F
+Houston,Fri 8:20 pm,Broken clouds. Warm.,84 °F
+Prague,Sat 3:20 am,Clear. Mild.,70 °F
+Antananarivo,Sat 4:20 am,Passing clouds. Quite cool.,45 °F
+Indianapolis,Fri 9:20 pm,Scattered clouds. Mild.,76 °F
+Reykjavik,Sat 1:20 am,Passing clouds. Cool.,50 °F
+Asuncion,Fri 10:20 pm,Passing clouds. Cool.,55 °F
+Islamabad,Sat 6:20 am,Passing clouds. Warm.,80 °F
+Rio de Janeiro,Fri 10:20 pm,Clear. Mild.,70 °F
+Athens,Sat 4:20 am,Mild.,74 °F
+Istanbul,Sat 4:20 am,Passing clouds. Mild.,68 °F
+Riyadh,Sat 4:20 am,Clear. Pleasantly warm.,84 °F
+Atlanta,Fri 9:20 pm,Passing clouds. Warm.,81 °F
+Jakarta,Sat 8:20 am,Partly sunny. Warm.,78 °F
+Rome,Sat 3:20 am,Clear. Mild.,75 °F
+Auckland,Sat 1:20 pm,Clear. Cool.,59 °F
+Jerusalem,Sat 4:20 am,Cool.,64 °F
+Salt Lake City,Fri 7:20 pm,Broken clouds. Extremely hot.,95 °F
+Baghdad,Sat 4:20 am,Clear. Hot.,90 °F
+Johannesburg,Sat 3:20 am,Overcast. Cool.,51 °F
+San Francisco,Fri 6:20 pm,Passing clouds. Mild.,67 °F
+Bangkok,Sat 8:20 am,Passing clouds. Warm.,82 °F
+Karachi,Sat 6:20 am,Scattered clouds. Warm.,84 °F
+San Juan,Fri 9:20 pm,Passing clouds. Warm.,82 °F
+Barcelona,Sat 3:20 am,Clear. Mild.,73 °F
+Kathmandu,Sat 7:05 am,Broken clouds. Mild.,70 °F
+San Salvador,Fri 7:20 pm,Scattered clouds. Warm.,79 °F
+Beijing,Sat 9:20 am,Rain. Cloudy. Mild.,71 °F
+Kingston,Fri 8:20 pm,Warm.,86 °F
+Santiago,Fri 9:20 pm,Clear. Cool.,52 °F
+Belgrade,Sat 3:20 am,Clear. Mild.,68 °F
+Kinshasa,Sat 2:20 am,Clear. Mild.,73 °F
+Santo Domingo,Fri 9:20 pm,Partly sunny. Hot.,90 °F
+Bengaluru,Sat 6:50 am,Scattered clouds. Mild.,72 °F
+Kiritimati,Sat 3:20 pm,Scattered clouds. Warm.,88 °F
+São Paulo,Fri 10:20 pm,Clear. Mild.,64 °F
+Berlin,Sat 3:20 am,Clear. Mild.,66 °F
+Kolkata,Sat 6:50 am,Scattered clouds. Warm.,81 °F
+Seattle,Fri 6:20 pm,Sunny. Pleasantly warm.,82 °F
+Bogota,Fri 8:20 pm,Partly cloudy. Mild.,63 °F
+Kuala Lumpur,Sat 9:20 am,Passing clouds. Warm.,81 °F
+Seoul,Sat 10:20 am,Light rain. Cloudy. Mild.,72 °F
+Boston,Fri 9:20 pm,Passing clouds. Mild.,75 °F
+Kuwait City,Sat 4:20 am,Clear. Pleasantly warm.,83 °F
+Shanghai,Sat 9:20 am,Sprinkles. Partly sunny. Warm.,79 °F
+Brasilia,Fri 10:20 pm,Passing clouds. Mild.,70 °F
+Kyiv,Sat 4:20 am,Passing clouds. Mild.,65 °F
+Singapore,Sat 9:20 am,Partly sunny. Warm.,82 °F
+Brisbane,Sat 11:20 am,Cool.,66 °F
+La Paz,Fri 9:20 pm,Clear. Chilly.,38 °F
+Sofia,Sat 4:20 am,Clear. Cool.,54 °F
+Brussels,Sat 3:20 am,Clear. Mild.,66 °F
+Lagos,Sat 2:20 am,Passing clouds. Mild.,75 °F
+St. John's,Fri 10:50 pm,Drizzle. Fog. Cool.,46 °F
+Bucharest,Sat 4:20 am,Clear. Mild.,66 °F
+Lahore,Sat 6:20 am,Scattered clouds. Warm.,84 °F
+Stockholm,Sat 3:20 am,Clear. Mild.,63 °F
+Budapest,Sat 3:20 am,Clear. Mild.,66 °F
+Las Vegas,Fri 6:20 pm,Sunny. Extremely hot.,101 °F
+Suva,Sat 1:20 pm,Overcast. Warm.,78 °F
+Buenos Aires,Fri 10:20 pm,Clear. Cool.,52 °F
+Lima,Fri 8:20 pm,Overcast. Mild.,71 °F
+Sydney,Sat 11:20 am,Sunny. Mild.,66 °F
+Cairo,Sat 4:20 am,Clear. Mild.,75 °F
+Lisbon,Sat 2:20 am,Passing clouds. Mild.,66 °F
+Taipei,Sat 9:20 am,Scattered clouds. Hot.,91 °F
+Calgary,Fri 7:20 pm,Broken clouds. Mild.,68 °F
+London,Sat 2:20 am,Clear. Mild.,63 °F
+Tallinn,Sat 4:20 am,Passing clouds. Cool.,52 °F
+Canberra,Sat 11:20 am,Partly sunny. Cool.,54 °F
+Los Angeles,Fri 6:20 pm,Sunny. Mild.,68 °F
+Tashkent,Sat 6:20 am,Partly sunny. Mild.,71 °F
+Cape Town,Sat 3:20 am,Fog. Cool.,48 °F
+Madrid,Sat 3:20 am,Passing clouds. Warm.,79 °F
+Tegucigalpa,Fri 7:20 pm,Passing clouds. Warm.,79 °F
+Caracas,Fri 9:20 pm,Passing clouds. Warm.,79 °F
+Managua,Fri 7:20 pm,Scattered clouds. Warm.,81 °F
+Tehran,Sat 4:50 am,Clear. Pleasantly warm.,81 °F
+Casablanca,Sat 2:20 am,Mild.,72 °F
+Manila,Sat 9:20 am,Partly sunny. Warm.,87 °F
+Tokyo,Sat 10:20 am,Broken clouds. Mild.,75 °F
+Chicago,Fri 8:20 pm,Partly sunny. Mild.,74 °F
+Melbourne,Sat 11:20 am,Mostly cloudy. Cool.,52 °F
+Toronto,Fri 9:20 pm,Scattered clouds. Mild.,66 °F
+Copenhagen,Sat 3:20 am,Clear. Mild.,63 °F
+Mexico City,Fri 7:20 pm,Mostly cloudy. Mild.,64 °F
+Vancouver,Fri 6:20 pm,Sunny. Mild.,70 °F
+Dallas,Fri 8:20 pm,Broken clouds. Warm.,79 °F
+Miami,Fri 9:20 pm,Passing clouds. Warm.,86 °F
+Vienna,Sat 3:20 am,Clear. Mild.,70 °F
+Darwin,Sat 10:50 am,Sunny. Warm.,79 °F
+Minneapolis,Fri 8:20 pm,Heavy rain. Partly sunny. Cool.,60 °F
+Warsaw,Sat 3:20 am,Clear. Mild.,64 °F
+Denver,Fri 7:20 pm,Scattered clouds. Pleasantly warm.,83 °F
+Minsk,Sat 4:20 am,Clear. Cool.,50 °F
+Washington DC,Fri 9:20 pm,Passing clouds. Pleasantly warm.,79 °F
+Detroit,Fri 9:20 pm,Sunny. Mild.,72 °F
+Montevideo,Fri 10:20 pm,Fog. Quite cool.,43 °F
+Winnipeg,Fri 8:20 pm,Mild.,64 °F
+Dhaka,Sat 7:20 am,Passing clouds. Warm.,83 °F
+Montréal,Fri 9:20 pm,Sprinkles. More clouds than sun. Cool.,61 °F
+Yangon,Sat 7:50 am,Partly sunny. Warm.,82 °F
+Doha,Sat 4:20 am,Clear. Warm.,86 °F
+Moscow,Sat 4:20 am,Clear. Cool.,54 °F
+Zagreb,Sat 3:20 am,Clear. Mild.,64 °F
+Dubai,Sat 5:20 am,Passing clouds. Extremely hot.,95 °F
+Mumbai,Sat 6:50 am,Passing clouds. Warm.,86 °F
+Zürich,Sat 3:20 am,Passing clouds. Mild.,63 °F
+Dublin,Sat 2:20 am,Clear. Cool.,57 °F
+Nairobi,Sat 4:20 am,Passing clouds. Cool.,61 °F
+Edmonton,Fri 7:20 pm,Broken clouds. Mild.,70 °F
+Nassau,Fri 9:20 pm,Thundershowers. Passing clouds. Warm.,84 °F

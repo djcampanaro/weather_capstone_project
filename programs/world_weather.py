@@ -71,6 +71,10 @@ def world_weather(driver):
                 'longitude': longitude,
                 'elevation': elevation,
             })
+            driver.back()
+            sleep(1)
+            driver.back()
+            sleep(1)
 
     df = pd.DataFrame.from_dict(weather_data)
     df.to_csv('../csv/world_weather.csv', index=False)
